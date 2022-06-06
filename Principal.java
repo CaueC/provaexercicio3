@@ -8,7 +8,7 @@ public class Principal {
         pessoa.setNome("Caue");
         pessoa.setEndereco("Aeroporto");
         pessoafisica.setCPF("528.852.448-36");
-        pessoajuridica.setCNPJ("333.456.834-02");
+        pessoajuridica.setCNPJ("30.420.560/0001-32");
         
 
         System.out.println("Nome: " + pessoa.nome);
